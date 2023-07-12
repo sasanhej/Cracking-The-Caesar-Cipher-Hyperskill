@@ -1,7 +1,6 @@
 ﻿# Cracking-The-Caesar-Cipher-Hyperskill
-This is "Cracking The Caesar Cipher" project form Hyperskill.<br>
-Your friend send you some encrypted messages and you need to decode them!<br>
-You need to implement Caeser chipher and Vigenère cipher algorithms to decode messages.<br>
+Write a program that can interpret texts encrypted by the Caesar cipher. Learn about strings, string methods, indexing, lists, and control flow statements.<br>
+Your friend has started to take an interest in the Caesar cipher! In this project, you will create a way to tackle this classic encryption method. Soon, you can decode your friend’s messages without taking up your whole afternoon.<br>
 Note: This repository contains all files from Hyperskill for evaluating each step of the project and quizes and etc.<br>
 Files that were created by me is listed below:<br>
 Everyone likes eating out with friends. The more friends, the better, but the bill time is always a bummer, to say the least. Why not develop a tool to keep the fun alive and make sure that everyone pays an equal amount.<br>
